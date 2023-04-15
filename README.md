@@ -1,5 +1,8 @@
 # Face Recognition Attandance System
 
+![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
+ <p align="left"><img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" /><p/>
+
 ### Recognize The faces And Take Automatic Attandance. :sparkles:
 
 ![image](https://user-images.githubusercontent.com/47035051/211322033-583a139e-68b6-4a00-8f28-01bc632a1269.png)

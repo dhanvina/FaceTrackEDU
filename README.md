@@ -1,6 +1,6 @@
 # Face Recognition Attandance System
 
-![VisitorCount](https://profile-counter.glitch.me/{https://github.com/dhanvina/face-recognition-attendance-management-system}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{dhanvina/face-recognition-attendance-management-system}/count.svg)
 
 ### Recognize The faces And Take Automatic Attandance. :sparkles:
 

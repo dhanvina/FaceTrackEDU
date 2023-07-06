@@ -3,6 +3,7 @@
 
 
 ### Recognize The faces And Take Automatic Attandance. :sparkles:
+The project has enabled different technologies and features with images and audio. It is been developed for teachers having disablities to easily use. The project is very efficent in varying weather conditions.
 
 ![image](https://user-images.githubusercontent.com/47035051/211322033-583a139e-68b6-4a00-8f28-01bc632a1269.png)
 
